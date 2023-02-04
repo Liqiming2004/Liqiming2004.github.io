@@ -1,0 +1,3 @@
+﻿  顺序表.cpp
+D:\A代码存放\顺序表\顺序表\顺序表.cpp(85): warning C4715: “searchTable”: 不是所有的控件路径都返回值
+  顺序表.vcxproj -> D:\A代码存放\顺序表\Debug\顺序表.exe
